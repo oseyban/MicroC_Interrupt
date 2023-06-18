@@ -1,0 +1,9 @@
+[PROJECTS]
+Count=5
+Project0=MyProject.mcpar
+Project1=button2Define.mcpar
+Project2=button3Define.mcpar
+Project3=PIRSensor.mcpar
+Project4=kesme.mcpar
+[ActiveProject]
+Index=4

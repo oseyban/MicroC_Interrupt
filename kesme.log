@@ -1,0 +1,7 @@
+0	1	mikroCARM.exe -MSF -DBG -pSTM32F407ZG -BIN -LHF -DL -SSA -O11111114 -fo16 -N"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for ARM\Examples\kesme.mcpar" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for ARM\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for ARM\Uses\ST M4\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for ARM\Examples\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for ARM\Uses\ST M4\" "kesme.c" "__Lib_Math.emcl" "__Lib_MathDouble.emcl" "__Lib_Delays.emcl" "__Lib_System_4XX.emcl" "__Lib_GPIO_32F4xx_Defs.emcl" "__Lib_GPIO_32F4xx.emcl"	 
+diagnostics: 0	122	Compilation Started	kesme.c
+hint: 0	1004	interrupt handler (ButtonKesme at 0x0016)	kesme.c
+error: 7	324	Undeclared identifier 'GPIOA_Digital_Input' in expression	kesme.c
+error: 8	324	Undeclared identifier 'GPIOD_Digital_Output' in expression	kesme.c
+error: 12	324	Undeclared identifier 'EXTI_EMR_0' in expression	kesme.c
+error: 0	102	Finished (with errors): 15 Mar 2023, 10:47:43	kesme.mcpar
